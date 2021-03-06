@@ -1,0 +1,39 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="springboot-shiro:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/springboot_shiro_jar</output-path>
+    <root id="archive" name="springboot-shiro.jar">
+      <element id="module-output" name="springboot-shiro" />
+      <element id="module-output" name="hello-shiro" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-config-ogdl/1.7.1/shiro-config-ogdl-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-core/1.7.1/shiro-crypto-core-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-hash/1.7.1/shiro-crypto-hash-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.7.1/shiro-core-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-config-core/1.7.1/shiro-config-core-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-cache/1.7.1/shiro-cache-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.21/slf4j-api-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-event/1.7.1/shiro-event-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-lang/1.7.1/shiro-lang-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-crypto-cipher/1.7.1/shiro-crypto-cipher-1.7.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/jcl-over-slf4j/1.7.21/jcl-over-slf4j-1.7.21.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-core:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-lang:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-cache:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-hash:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-core:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-crypto-cipher:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-core:1.7.1" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-config-ogdl:1.7.1" />
+      <element id="library" level="project" name="Maven: commons-beanutils:commons-beanutils:1.9.4" />
+      <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.2.2" />
+      <element id="library" level="project" name="Maven: org.apache.shiro:shiro-event:1.7.1" />
+      <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.21" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
+      <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.7.21" />
+      <element id="library" level="project" name="Maven: log4j:log4j:1.2.17" />
+    </root>
+  </artifact>
+</component>
